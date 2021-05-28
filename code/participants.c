@@ -18,6 +18,7 @@ int
 main (int argc, char *argv[])
 {
   int i = 0;
+  printf("%02d: Vaibhav Singh Tomar \n",++i);
   printf ("%02d: Samuel A. Rebelsky\n", ++i);
   printf ("%02d: Nicolas Knoebber\n", ++i);
   printf ("%02d: Samee Zahid\n", ++i);
@@ -31,10 +32,10 @@ main (int argc, char *argv[])
   printf ("%02d: Abby Stevens\n", ++i);
   printf ("%02d: Noah Schlager\n", ++i);
   printf ("%02d: Ezra Edgerton\n", ++i);
-<<<<<<< HEAD
-=======
+// <<<<<<< HEAD
+// =======
   printf ("%02d: Eve Lyons-Berg\n", ++i);
->>>>>>> 68cd325ce50739c605ead5486c1818bb8bb1554d
+// >>>>>>> 68cd325ce50739c605ead5486c1818bb8bb1554d
   printf ("There are %i participants.\n", i);
   return 0;
 } // main

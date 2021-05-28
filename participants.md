@@ -2,7 +2,7 @@ A list of participants in CSC 195
 ---------------------------------
 
 *Please keep this list in alphabetical order by last name.*
-
+ Vaibhav Singh Tomar
 * Toby E. Baratta
 * Larry Boateng Asante
 * Ezra "Slow Rider" Edgerton
